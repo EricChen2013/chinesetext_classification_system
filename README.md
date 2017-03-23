@@ -1,0 +1,2 @@
+# chinesetext_classification_system
+python 3.5下的一个小型的中文文本分类系统
